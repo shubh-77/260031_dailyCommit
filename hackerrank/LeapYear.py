@@ -7,5 +7,6 @@ def is_leap(year):
             leap = True
     return leap
 
+#this is the sample input
 year = int(input())
 print(is_leap(year))
