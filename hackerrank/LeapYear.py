@@ -9,4 +9,5 @@ def is_leap(year):
 
 #this is the sample input
 year = int(input())
+#printing function
 print(is_leap(year))
