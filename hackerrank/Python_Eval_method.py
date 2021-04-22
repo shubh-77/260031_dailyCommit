@@ -33,6 +33,6 @@
 # 5
 
 
-# Soln:
+# My Soln:
 var = input()
 eval(var)
