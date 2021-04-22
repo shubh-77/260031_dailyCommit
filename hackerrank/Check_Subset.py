@@ -1,3 +1,4 @@
+# tc are test cases
 tc = int(input())
 i=1
 while(i<= tc):
